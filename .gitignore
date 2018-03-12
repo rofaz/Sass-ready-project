@@ -3,6 +3,7 @@
 ### Sass ###
 .sass-cache/
 *.css.map
+prepros-6.config
 
 ### Windows ###
 # Windows thumbnail cache files
